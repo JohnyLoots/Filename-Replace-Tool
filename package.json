@@ -1,0 +1,15 @@
+{
+    "name": "com.johnyloots.filenamereplacetool",
+    "version": "1.1.0",
+    "displayName": "Unity Quick Start Project",
+    "description": "Tool for renaming files in bulk",
+    "unity": "2018.3",
+    "keywords": [
+      "",
+      ""
+    ],
+    "author": {
+      "name": "Johny Loots",
+      "url": "https://github.com/JohnyLoots"
+    }
+  }
